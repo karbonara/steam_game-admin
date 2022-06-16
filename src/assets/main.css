@@ -61,6 +61,9 @@
         display: block;
     }
 }
+
+
+
 @media(max-width: 580px) {
     .resp-tab td {
         width: 100%;
